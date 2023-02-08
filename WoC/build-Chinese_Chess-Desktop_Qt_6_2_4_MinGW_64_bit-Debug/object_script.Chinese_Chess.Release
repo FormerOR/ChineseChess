@@ -1,0 +1,15 @@
+release/cell.o
+release/dialogui.o
+release/loginui.o
+release/main.o
+release/board.o
+release/mainui.o
+release/network.o
+release/piece.o
+release/qrc_resource.o
+release/moc_board.o
+release/moc_cell.o
+release/moc_dialogui.o
+release/moc_loginui.o
+release/moc_mainui.o
+release/moc_network.o

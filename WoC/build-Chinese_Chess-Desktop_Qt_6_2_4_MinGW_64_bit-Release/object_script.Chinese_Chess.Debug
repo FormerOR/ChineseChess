@@ -1,0 +1,15 @@
+debug/cell.o
+debug/dialogui.o
+debug/loginui.o
+debug/main.o
+debug/board.o
+debug/mainui.o
+debug/network.o
+debug/piece.o
+debug/qrc_resource.o
+debug/moc_board.o
+debug/moc_cell.o
+debug/moc_dialogui.o
+debug/moc_loginui.o
+debug/moc_mainui.o
+debug/moc_network.o
